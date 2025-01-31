@@ -52,7 +52,7 @@
                     2. Photo Sharing: Implement a photo sharing feature that allows users to upload and share their photos.
                     3. Discussion Forums: Create discussion forums for users to participate in discussions related to photography.
                     4. Groups: Allow users to create and join groups based on their interests.</p>
-            </div>
+            
             <div class="project-card">
                 <h3>Project 3</h3>
                 <p>An innovative task management app designed to help teams collaborate, track tasks, and increase productivity</p>
