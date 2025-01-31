@@ -36,15 +36,26 @@
         <div class="project-gallery"></div>
             <div class="project-card">
                 <h3>Project 1</h3>
-                <p>Short description of the project.</p>
+                <p>Overview
+                    Design and develop an e-commerce website for an online retailer that sells clothing, accessories, and home goods. The website should provide a seamless user experience, easy navigation, and a secure checkout process.</p>
             </div>
             <div class="project-card">
                 <h3>Project 2</h3>
-                <p>Short description of the project.</p>
+                <p>Social Media Platform for a Niche Community
+
+                    Overview
+                    Design and develop a social media platform for a niche community of photographers. The platform should allow users to share their photos, connect with other photographers, and participate in discussions.
+                    
+                    Features
+                    
+                    1. User Profiles: Allow users to create profiles to showcase their photos and connect with other users.
+                    2. Photo Sharing: Implement a photo sharing feature that allows users to upload and share their photos.
+                    3. Discussion Forums: Create discussion forums for users to participate in discussions related to photography.
+                    4. Groups: Allow users to create and join groups based on their interests.</p>
             </div>
             <div class="project-card">
                 <h3>Project 3</h3>
-                <p>Short description of the project.</p>
+                <p>An innovative task management app designed to help teams collaborate, track tasks, and increase productivity</p>
             </div>
         </div>
     </section>
